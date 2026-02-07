@@ -39,3 +39,7 @@
 
 # debug information files
 *.dwo
+/.vs
+/program/x64
+/program/program
+/program/.vs
